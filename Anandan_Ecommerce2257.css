@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    width: 150px;
+    padding-right: 10px;
+}
+
+.services-heading {
+    color: #1f2933;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.Services-heading-1 {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.Services-logo {
+    width: 25%;
+}
+
+.Services-para {
+    color: #616c7c;
+}
+
+.Services-container {
+    padding: 15px;
+}
+
+.Services-para-1 {
+    color: #7b8794;
+    font-size: 13px;
+}
+
+.production-section-bg {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.production-section-heading {
+    color: #1f2933;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.production-section-bg-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.production-section-bg-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.production-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.production-para {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.production-button {
+    background-color: #ffffff;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #ff9f00;
+    font-weight: 600;
+}
+
+.production-para-1 {
+    font-size: 15px;
+}
+
+.production-para-bold {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.production-bottom-button {
+    border-color: #323f4b;
+    font-size: 13px;
+}
+
+.production-link {
+    text-decoration: none;
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.offer-section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offer-section-logo {
+    width: 100%;
+}
+
+.offer-section-items {
+    width: 100%;
+}
+
+.offer-section-heading {
+    color: #ad2167;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.offer-section-para {
+    color: #ffffff;
+}
+
+.offer-section-span-1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.offer-section-heading-1 {
+    font-style: italic;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.offer-section-span-2 {
+    color: yellow;
+}
+
+.offer-section-para-1 {
+    font-size: 10px;
+    color: #ffffff;
+}
+
+.offer-section-price {
+    width: 80%;
+}
+
+.deals-section-bg {
+    background-color: #f5f7fa;
+}
+
+.deals-section-top-heading {
+    font-size: 35px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.deals-section-heading {
+    font-size: 21px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.deals-section-card1-image {
+    width: 80%;
+    border-radius: 20px;
+}
+
+.deals-section-card-1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.deals-section-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ff9f00;
+}
+
+.deals-card2-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.Trending-bg-container {
+    background-color: #ffffff;
+    font-family: Roboto;
+}
+
+.Trending-heading {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: 600;
+}
+
+.Trending-project-img {
+    width: 100%;
+}
+
+.Trending-card-background {
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.Trending-card-sub-heading {
+    color: #9aa5b1;
+    font-size: 13px;
+}
+
+.Trending-card-heading {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.Trending-card-para {
+    color: #9aa5b1;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.Trending-link {
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.contact-section-bg {
+    background-color: #f5f7fa;
+}
+
+.contact-section-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contact-section-button {
+    color: #ff9f00;
+    border-color: #ff9f00;
+    border-width: 2px;
+}
+
+
+.footer-section-bg {
+    background-color: #0d2436;
+}
+
+.footer-section-logo {
+    width: 50%;
+}
+
+.footer-logo {
+    color: #5a7184;
+    border-radius: 100%;
+    padding: 13px;
+    background-color: #152c3e;
+}
+
+.footer-section-address {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+.footer-section-1 {
+    color: #5a7184;
+}
+
+.list-type {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.list-gap {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-heading {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-line {
+    background-color: #5a7184;
+}
+
+.footer-para {
+    color: #5a7184;
+    font-size: 14px;
+}
